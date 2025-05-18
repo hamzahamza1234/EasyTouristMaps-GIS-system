@@ -1,5 +1,4 @@
-This project was done in C++ using open source tools to get location information as well as a graphics library.
-Many features were implemented such as location searching (fuzzy match), weather displays on any location using libCurl, Points of Interest, A* Algorithm for best navigation etc
+This project was done in C++ using open source tools to get location information as well as a graphics library. Many features were implemented such as location searching (fuzzy match), weather displays on any location using libCurl, Points of Interest, A* Algorithm for best navigation etc
 <img width="491" alt="image" src="https://github.com/user-attachments/assets/5d559ccc-7e38-4ef9-860f-fbe7396f3820" />
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/886b389a-ffa6-4b82-8b48-ac64e14e2a31" />
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/84d6bebe-102e-4581-adfd-9ae59d8bebe0" />
